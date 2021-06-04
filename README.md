@@ -21,4 +21,4 @@ Development is hosted on GitHub in the
 ## References
 [gCAPjoint v1.0]
 
-Bai Q, Ni S, Chu R, et al. 2020. gCAPjoint, A Software Package for Full Moment Tensor Inversion of Moderately Strong Earthquakes with Local and Teleseismic Waveforms[J]. Seismological Research Letters, 91(6): 3550-3562.b [[Paper](https://pubs.geoscienceworld.org/ssa/srl/article/91/6/3550/590002)]
+Bai Q, Ni S, Chu R, et al. 2020. gCAPjoint, A Software Package for Full Moment Tensor Inversion of Moderately Strong Earthquakes with Local and Teleseismic Waveforms[J]. Seismological Research Letters, 91(6): 3550-3562. [[Paper](https://pubs.geoscienceworld.org/ssa/srl/article/91/6/3550/590002)]
